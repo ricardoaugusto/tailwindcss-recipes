@@ -19,3 +19,6 @@ npm run build
 
 - Vertically centered content
 - Image Gallery
+- NavBar
+- NavBar with dropdown
+- 
