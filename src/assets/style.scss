@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.debug {
+  @apply border-2;
+  @apply border-red-300;
+  @apply bg-red-100;
+}
+
+html {
+  scroll-behavior: smooth;
+}
